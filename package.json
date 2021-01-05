@@ -6,7 +6,7 @@
   "author": "Meaghan Bass",
   "dependencies": {
     "@gatsby-contrib/gatsby-plugin-elasticlunr-search": "^2.3.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.10.6",
     "bootstrap": "^4.3.1",
     "gatsby": "^2.16.1",
